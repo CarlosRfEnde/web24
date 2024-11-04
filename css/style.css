@@ -360,3 +360,12 @@ h1 {
     color: #338a84;
     font-size: larger;
 }
+
+.col3 {
+    width: 33.33;
+    float: left;
+}
+
+.cb {
+    clear: both;
+}
