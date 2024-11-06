@@ -373,3 +373,7 @@ h1 {
 .cb {
     clear: both;
 }
+
+.black {
+    color: #000000;
+}
