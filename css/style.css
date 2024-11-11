@@ -281,7 +281,7 @@ h1 {
 
 .tabla3 {
     margin: 0 auto;
-    width: 80%;
+    width: 50%;
     background-color: white;
 }
 
@@ -366,6 +366,11 @@ h1 {
     float: left;
     padding: 5px;
     margin: 0auto;
+    border-radius: 0%;
+}
+
+.fotos {
+
 }
 
 .col3 img {
@@ -389,5 +394,12 @@ float: right;
 }
 
 .formhtml5 {
-margin: auto;
+margin: 0% auto;
+width: 50%;
+}
+
+.button {
+    border-radius: 50%;
+    background-color: #61f161;
+    color: #000000;
 }
