@@ -280,8 +280,8 @@ h1 {
 }
 
 .tabla3 {
-    width: 80%;
     margin: 0 auto;
+    width: 80%;
     background-color: white;
 }
 
@@ -378,4 +378,16 @@ h1 {
 
 .black {
     color: #000000;
+}
+
+.formlogin {
+ float: left;
+}
+
+.formregister {
+float: right;
+}
+
+.formhtml5 {
+margin: auto;
 }
