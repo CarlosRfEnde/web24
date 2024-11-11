@@ -364,6 +364,8 @@ h1 {
 .col3 {
     width: 33.33;
     float: left;
+    padding: 5px;
+    margin: auto;
 }
 
 .col3 img {
