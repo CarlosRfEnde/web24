@@ -362,10 +362,10 @@ h1 {
 }
 
 .col3 {
-    width: 33.33;
+    width: 33.3%;
     float: left;
     padding: 5px;
-    margin: auto;
+    margin: 0auto;
 }
 
 .col3 img {
