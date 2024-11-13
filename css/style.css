@@ -414,3 +414,32 @@ width: 50%;
     background-color: #61f161;
     color: #000000;
 }
+
+.barra {
+    position: sticky;
+    top: 0; /* Mantiene el menú pegado a la parte superior */
+    background-color: #101010;
+    padding: 10px;
+    z-index: 1000; /* Asegura que esté por encima de otros elementos */
+    border-style: groove;
+    margin: 0 auto;
+}
+
+.barra ul {
+    display: contents;
+    display: flex;
+    justify-content: space-around;
+}
+
+.barra li a {
+    color: rgb(36, 236, 210);
+    padding: 10px 20px;
+    transition: background 0.3s;
+    font-family: Arial, sans-serif;
+}
+
+.barra li a:hover {
+    background-color: #101010;
+    border-radius: 10px;
+    color: #ff0000;
+}
