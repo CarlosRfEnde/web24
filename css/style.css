@@ -254,7 +254,7 @@ h1 {
     display:inline;
     width: 30%;
     font-size: 26px;
-    background-color:black;
+    background-color:#101010;
     color: aqua;
     font-weight: bold;
 }
@@ -420,7 +420,7 @@ width: 50%;
     top: 0; /* Mantiene el menú pegado a la parte superior */
     background-color: #101010;
     padding: 10px;
-    z-index: 1000; /* Asegura que esté por encima de otros elementos */
+    z-index: 1000; /* Se supone que me asegura que esté por encima de otros elementos pero no me va */
     border-style: groove;
     margin: 0 auto;
 }
