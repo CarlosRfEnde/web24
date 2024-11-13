@@ -367,11 +367,14 @@ h1 {
     padding: 5px;
     margin: 0auto;
     border-radius: 0%;
+    border-image-source: none;
+    border-image-slice: 100%;
+    border-image-width: 1;
+    border-image-repeat: stretch;
 }
 
 .video {
     display: block;
-
     text-align: center;
     width: 50%;
     margin: 0 auto;
@@ -379,6 +382,10 @@ h1 {
 
 .col3 img {
     padding: 6px;
+    border-image-source: none;
+    border-image-slice: 100%;
+    border-image-width: 1;
+    border-image-repeat: stretch;
 }
 
 .cb {
