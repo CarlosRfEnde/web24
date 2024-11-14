@@ -397,16 +397,26 @@ h1 {
 }
 
 .formlogin {
- float: left;
+ float: none;
+ margin: 0% auto;
+ width: 25%;
+ border-style: groove;
+ border-color: #279f43;
 }
 
 .formregister {
-float: right;
+ float: none;
+ margin: 0% auto;
+ width: 50%;
+ border-style: groove;
+ border-color: #279f43;
 }
 
 .formhtml5 {
-margin: 0% auto;
-width: 50%;
+ margin: 0% auto;
+ width: 50%;
+ border-style: groove;
+ border-color: #279f43;
 }
 
 .button {
@@ -442,4 +452,13 @@ width: 50%;
     background-color: #101010;
     border-radius: 10px;
     color: #ff0000;
+}
+
+.formulario {
+    background-color: #c73a3a;
+}
+
+.colorn {
+    background-color: #101010;
+    color: white;
 }
